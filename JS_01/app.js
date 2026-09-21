@@ -1,1 +1,3 @@
-console.log("Namaste Duniya")
+function sayHello() {
+console.log("Hello, Naman!");
+}
